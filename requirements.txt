@@ -1,0 +1,16 @@
+jupyter
+ipython
+ipykernel
+
+torch
+torchvision
+pycocotools
+pandas
+numpy
+matplotlib
+
+
+opencv-python
+tensorboard
+tqdm
+
